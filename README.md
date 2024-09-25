@@ -1,156 +1,13 @@
-# M Jawad ur Rehman&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-
-
-                                                       
+ # M Jawad ur Rehman&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+ 
  Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm M Jawad ur Rehman
 ================================================================================================================================
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShubham-Bhoite%2Fshubham-bhoite%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<h2 align="center">A Passionate AI, ML and DL Engineer From Lahore, Pakistan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
-- I am a . 
-- I am skilled in Python , C++, PyTorch, Keras, Scikit-Learn, Pandas, MySQL.
-- I am also skilled in HTML, CSS, Bootstrap, JavaScript & Angular. 
-- I am good in Data Structure and Algorithms.
-- I learned a lot from the Open-Source community.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <p align="center" color:"red">
- <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Front-end Developer;AI+&+ML+Engineer;1.5%2B%20years of coding experience;Always learning new things...."></a>
-      </p>
-       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=shubham-bhoite&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/shubham-bhoite?label=Followers&style=social" alt="followers-count"> 
-</p>
-
-
-
-  
-**🎓About Me**:
-
-- 🌱 I’m currently learning CNN with Keras.
-- 4⭐on HackerRank in Python
-- 3⭐on HackerRank in C++
-
-
-- ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
-
-
-<br/>
-<br/>
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="hibernate logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Apache Tomcat logo" />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Google Chrome logo" />
-  <img width="12" />
-
-</div>
-
-
-## 📊 Statistics  
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-bhoite&theme=2077" width="46%" />
-  <br/>
-  <br/>
-    <br/>
-  <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=shubham-bhoite&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
-</div>
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-bhoite&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-bhoite&theme=2077" width="45%" />
-</div>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-bhoite&theme=2077" style="height: 300px"  />                                                                                                                        
-  <div align="center">                                                                                                                           
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham-Bhoite" alt="Shubham-Bhoite" /></a>                         
-  </div>  
-
-
-
-### Dev Quote
-  <div align="center">  
-<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
-    </div>  
-
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-<div align="center">🙏🙏Thank You For Visiting My Profile 🙏🙏
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-    I am a 2nd Year Undergraduate from <a href="https://www.srmist.edu.in/"> <b>UNIVERSITY OF CENTRAL PUNJAB</b>, LAHORE</a>.  
+    I am a 2nd Year Undergraduate from <a href="https://www.ucp.edu.pk/"> <b>UNIVERSITY OF CENTRAL PUNJAB</b>, LAHORE</a>.  
     A budding <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>AI & ML Developer,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -169,36 +26,49 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
-<br>
+# 💫 About Me:
 
-<a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+- I am a Data Scientist and AI, ML, DL and LLM Engineeer. 
+- I am skilled in Python, C++, PyTorch, Keras, Scikit-Learn, Pandas, MySQL.
+- I am also skilled in HTML, CSS, JavaScript & Angular. 
+- I am good in Data Structure and Algorithms.
+- I learned a lot from the Open-Source community.
 
 
-<a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
-</a>
-
-<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a>
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <p align="center" color:"red">
+ <a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Data Scientist;AI+and+ML+Engineer;1.5%2B%20years of Coding Experience;Passion to Learn New Things...."></a>
+      </p>
 
 
 
+**🎓About Me**:
+
+- 🌱 I’m currently learning CNN with Keras.
+- 4⭐on HackerRank in Python
+- 3⭐on HackerRank in C++
 
 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=m-jawad-ur-rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m-jawad-ur-rehman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-jawad-ur-rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=m-jawad-ur-rehman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=m-jawad-ur-rehman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=m-jawad-ur-rehman&icon=8&color=3)](https://visitcount.itsvg.in)
 
 
 <br>
@@ -207,13 +77,4 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
-
-<br>
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
